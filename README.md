@@ -1,2 +1,2 @@
 # DSA
-Data Structure and Algorithms topics code files and some basic programs applying DSA concepts
+Data Structure and Algorithms topics code files and some basic programs applying DSA concepts.
